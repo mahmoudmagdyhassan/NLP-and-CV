@@ -173,8 +173,8 @@ def create_animation(array, case, heatmap=None, alpha=0.3):
 
 st.title("3D Image Classification App")
 
-model = tf.keras.models.load_model("https://github.com/mahmoudmagdyhassan/NLP-and-CV/blob/main/3d/3d_image_classification.h5")
-new_image_path = "https://github.com/mahmoudmagdyhassan/NLP-and-CV/blob/main/3d/study_0942.nii.gz"
+model = tf.keras.models.load_model("/content/3d_image_classification.h5")
+new_image_path = "/content/MosMedData/CT-23/study_0941.nii.gz"
 
 number_input_value = st.sidebar.number_input(
     "Enter a number",
