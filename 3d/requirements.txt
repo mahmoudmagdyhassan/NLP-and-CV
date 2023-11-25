@@ -1,6 +1,6 @@
-NumPy version: 1.23.5
-TensorFlow version: 2.14.0
-OpenCV version: 4.8.0
-Matplotlib version: 3.7.1
-NiBabel version: 4.0.2
-SciPy version: 1.11.3
+NumPy==1.23.5
+TensorFlow ==2.14.0
+OpenCV==4.8.0
+Matplotlib ==3.7.1
+NiBabel ==4.0.2
+SciPy ==1.11.3
