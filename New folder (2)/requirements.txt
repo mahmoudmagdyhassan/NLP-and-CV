@@ -5,4 +5,3 @@ OpenCV==4.8.0
 Matplotlib==3.7.1
 NiBabel==4.0.2
 SciPy==1.11.3
-Streamlit==1.28.2
